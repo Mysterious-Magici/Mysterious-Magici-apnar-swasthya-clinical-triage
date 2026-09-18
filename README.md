@@ -1,4 +1,3 @@
-```markdown
 # 🩺 Apnar Swasthya: Multi-Disease Predictive Diagnostic System
 
 **Live Application:** [https://apnar-swasthya.onrender.com](https://apnar-swasthya.onrender.com)
@@ -26,8 +25,6 @@ Apnar Swasthya is an intelligent clinical decision support system designed to as
    ```bash
    git clone [https://github.com/Mysterious-Magici/Mysterious-Magici-apnar-swasthya-clinical-triage.git](https://github.com/Mysterious-Magici/Mysterious-Magici-apnar-swasthya-clinical-triage.git)
    cd Mysterious-Magici-apnar-swasthya-clinical-triage
-
-```
 
 2. **Install the required dependencies:**
 Ensure you have Python 3.8+ installed, then run:
