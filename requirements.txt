@@ -1,0 +1,10 @@
+streamlit
+xgboost
+pandas
+fpdf2==2.7.9
+numpy
+altair
+google-generativeai
+scikit-learn
+joblib
+
