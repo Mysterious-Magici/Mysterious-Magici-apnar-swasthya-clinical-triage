@@ -1,8 +1,9 @@
 #  Apnar Swasthya: Multi-Disease Predictive Diagnostic System
 
 **Live Application:** 
-Stremlit Cloud: [https://apnar-swasthya-app.streamlit.app/](https://apnar-swasthya-app.streamlit.app/)
+Stremlit Cloud: [https://apnar-swasthya-app.streamlit.app/](https://apnar-swasthya-app.streamlit.app/), 
 Render Cloud: [https://apnar-swasthya.onrender.com](https://apnar-swasthya.onrender.com)
+![Preview](https://github.com/Mysterious-Magici/Mysterious-Magici-apnar-swasthya-clinical-triage/blob/main/Apnar%20Swathya.png)
 
 ##  Overview
 Apnar Swasthya is an intelligent clinical decision support system designed to assist healthcare professionals in patient triage. By analyzing patient demographics, physiological vitals, and comprehensive laboratory markers, the application utilizes advanced machine learning classification to predict potential differential diagnoses and stratify clinical risk in real-time.
